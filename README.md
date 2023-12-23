@@ -3,12 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (HTML, CSS, JavaScript, JQuery, Ajax, PHP and MySQL)</b>
-  - [Social Networking site(similar to Facebook)](https://github.com/sylab-ops/php-social-media-web-application) <b><i>(Personal project)</b></i>
+  -[Social Networking site(similar to Facebook)](https://github.com/sylab-ops/php-social-media-web-application) <b><i>(Personal project)</b></i>
 - <b>C# (.NET Desktop Applications)</b>
-  - [VirtualCampus](https://github.com/sylab-ops/VirtualCampus)
+  -[Virtual Campus](https://github.com/sylab-ops/VirtualCampus)
 - <b>Python</b>
-  - [Steganography Tool(Digital-Invisible-Ink)](https://github.com/sylab-ops/steganography-invisible-ink-tool)
-  - [IPScanner](https://github.com/sylab-ops/iPScanning-tool)
+  -[Steganography Tool (Digital-Invisible-Ink)](https://github.com/sylab-ops/steganography-invisible-ink-tool)
+  -[IPScanner](https://github.com/sylab-ops/iPScanning-tool)
 
 - <b>Andriod and Java</b>
   - [Misconduct Reporting App](https://github.com/sylab-ops/misconduct-reporting-app)
