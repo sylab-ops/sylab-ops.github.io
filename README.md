@@ -1,6 +1,7 @@
 <h1>Hi, I'm Abraham! <br/><a href="https://github.com/sylab-ops">Software Engineer</a>, <a href="https://www.linkedin.com/in/sylabraham099/">Cybersecurity Professional</a></h1>
 
 <h2>🎖️ Industry Certifications:</h2>
+
   - [ISC2 Certified Secure Software Life-cycle Professional (CSSLP)] 
   - [Certified Ethical Hacker(CEH)]
   - [Certified Network Security Expert]
