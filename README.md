@@ -1,7 +1,16 @@
 <h1>Hi, I'm Abraham! <br/><a href="https://github.com/sylab-ops">Software Engineer</a>, <a href="https://www.linkedin.com/in/sylabraham099/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Industry Certifications</h2>
+  - [ISC2 Certified Secure Software Life-cycle Professional (CSSLP)]
+  - [Certified Ethical Hacker(CEH)]
+  - [Certified Network security Expert]
+  - [Certified Exploit Writing Expert]
+  - [Certified Web Application Penetration tester]
+  - [Advance Diploma Information security(ADIS)]
+  - [DevSecOps Fundamentals]
+  - [DNSTwist Fundamentals]
 
+<h2>👨‍💻 Software Development Projects:</h2>
 - <b>Full Stack Web App (HTML, CSS, JavaScript, JQuery, Ajax, PHP and MySQL)</b>
   - [Social Networking site(similar to Facebook)](https://github.com/sylab-ops/php-social-media-web-application) <b><i>(Personal project)</b></i>
 - <b>C# (.NET Desktop Applications)</b>
