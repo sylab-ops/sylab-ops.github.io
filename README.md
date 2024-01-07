@@ -2,12 +2,15 @@
 
 <h2>🎖️ Industry Certifications:</h2>
 
+  - [Advance Diploma Information security(ADIS)]
+  - [CompTIA Mobile App Security+]
   - [ISC2 Certified Secure Software Life-cycle Professional (CSSLP)] 
   - [Certified Ethical Hacker(CEH)]
   - [Certified Network Security Expert]
   - [Certified Exploit Writing Expert]
-  - [Certified Web Application Penetration Tester]
-  - [Advance Diploma Information security(ADIS)]
+  - [Certified Web Application Penetration Tester(WAPT)]
+  - [DevOps Cloud Certification]
+  - [Cybersecurity and Oracle Cloud Insfrastruture Certification]
   - [DevSecOps Fundamentals]
   - [DNSTwist Fundamentals]
 
